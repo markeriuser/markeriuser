@@ -4,9 +4,9 @@
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django&logoColor=092E20)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=F05032)
+![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=sqlite&logoColor=4479A1)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/markeriuser)
