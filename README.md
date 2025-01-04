@@ -7,10 +7,8 @@
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=092E20)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sqlite&logoColor=4479A1)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/markeriuser)
